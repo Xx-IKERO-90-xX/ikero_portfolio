@@ -1,7 +1,6 @@
 <script setup>
-
+    import HomeContent from '../components/content/HomeContent.vue';
 </script>
 <template>
-    <h1>THE IKERO90</h1>
-
+    <HomeContent />
 </template>
