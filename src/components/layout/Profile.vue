@@ -9,7 +9,7 @@
           class="w-32 rounded-full ring ring-primary ring-offset-base-100 ring-offset-2"
         >
           <img
-            style="onject-fit: cover; transform: scale(1.2)"
+            style="object-fit: cover; transform: scale(1.2)"
             src="/src/assets/images/main/avatar.jpg"
             alt="Profile"
           />
@@ -26,7 +26,6 @@
 
     <div class="w-full mt-10">
       <p class="text-center text-sm mb-6 break-all">theikero@gmail.com</p>
-
       <div class="flex justify-center gap-4">
         <a
           href="#"
