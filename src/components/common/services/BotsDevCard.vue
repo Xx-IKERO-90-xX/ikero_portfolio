@@ -21,6 +21,9 @@
         Desarrollo bots para diversas plataformas, como Discord, Telegram, entre
         otras, adaptándolos a las necesidades específicas de cada cliente.
       </p>
+      <div class="badge badge-xl badge-success"><strong>100 - 300€</strong></div>
+      <br>
+      <i>El precio depende de lo que pidas.</i>
     </div>
   </div>
 </template>

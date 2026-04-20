@@ -20,6 +20,9 @@
         específicas de cada cliente, garantizando una experiencia de usuario
         excepcional. Desarrollo tanto sitios webs como soluciones web a medida.
       </p>
+      <div class="badge badge-xl badge-success"><strong>50 - 500€</strong></div>
+      <br>
+      <i>El precio depende de lo que pidas.</i>
     </div>
   </div>
 </template>
