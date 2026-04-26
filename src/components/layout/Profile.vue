@@ -1,4 +1,6 @@
-<script setup></script>
+<script setup>
+  import KofiButton from '../common/other/buttons/KofiButton.vue';
+</script>
 <template>
   <aside
     class="card bg-base-100 border border-[#00ff88]/40 z-3 hover:border-[#00ff88] transition-all duration-300 border-base-content/20 rounded-3xl p-8 flex flex-col justify-between shadow-xl"
@@ -22,6 +24,10 @@
       <h1 class="text-2xl font-bold text-center">
         Iker Javier Rodriguez Hernandez
       </h1>
+      <br/>
+      <div class="w-full text-center">
+        <KofiButton />
+      </div>
     </div>
 
     <div class="w-full mt-10">
