@@ -32,4 +32,12 @@ import router from './router';
 .custom-scroll::-webkit-scrollbar { width: 5px; }
 .custom-scroll::-webkit-scrollbar-thumb { background: rgba(155,155,155,0.2); border-radius: 10px; }
 
+.main-background {
+  background-image: 
+    linear-gradient(rgba(0,0,0,0.6), rgba(0,0,0,0.6)),
+    url('/src/assets/images/desktop_background.png');
+  background-size: cover;
+  background-position: center;
+}
+
 </style>
