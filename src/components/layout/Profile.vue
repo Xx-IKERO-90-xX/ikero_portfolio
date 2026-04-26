@@ -25,9 +25,12 @@
     </div>
 
     <div class="w-full mt-10">
-      <p class="text-center text-sm mb-6 break-all">theikero@gmail.com</p>
+      <div class="text-center">
+        <a href="mailto:theikero90@gmail.com" class="text-center link link-success">theikero90@gmail.com</a>
+      </div>
+      <br />
       <div class="flex justify-center gap-4">
-        <a href="#" class="btn btn-ghost btn-circle text-2xl hover:text-info">
+        <a href="https://www.linkedin.com/in/iker-javier-rodriguez-hernandez-875a592ab" class="btn btn-ghost btn-circle text-2xl hover:text-info">
           <svg
             xmlns="http://www.w3.org/2000/svg"
             width="16"
@@ -42,7 +45,7 @@
           </svg>
         </a>
         <a
-          href="#"
+          href="https://www.instagram.com/theikero_90"
           class="btn btn-ghost btn-circle text-2xl hover:text-secondary"
         >
           <svg
@@ -58,7 +61,7 @@
             />
           </svg>
         </a>
-        <a href="#" class="btn btn-circle">
+        <a href="https://github.com/Xx-IKERO-90-xX" class="btn btn-ghost btn-circle">
           <svg
             xmlns="http://www.w3.org/2000/svg"
             width="16"

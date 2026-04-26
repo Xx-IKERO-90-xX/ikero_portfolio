@@ -1,5 +1,5 @@
 <template>
-  <div class="min-h-screen lg:h-screen w-screen bg-base-300 p-4 md:p-6 lg:p-8 custom-scroll flex flex-col overflow-x-hidden">
+  <div class="main-background min-h-screen lg:h-screen w-screen bg-base-300 p-4 md:p-6 lg:p-8 custom-scroll flex flex-col overflow-x-hidden">
     <div class="grid grid-cols-1 lg:grid-cols-[320px_1fr] gap-4 h-auto lg:h-full">
       <Profile class="h-auto lg:h-full lg:overflow-y-auto" />
       <div class="flex flex-col gap-4 h-auto lg:h-full lg:min-h-0">
@@ -31,4 +31,5 @@ import router from './router';
 
 .custom-scroll::-webkit-scrollbar { width: 5px; }
 .custom-scroll::-webkit-scrollbar-thumb { background: rgba(155,155,155,0.2); border-radius: 10px; }
+
 </style>

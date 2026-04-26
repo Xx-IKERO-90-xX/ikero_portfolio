@@ -8,7 +8,7 @@
       <router-link to="/proyectos" class="btn btn-success btn-sm rounded-xl" active-class="btn-active">
         <strong>Proyectos</strong>
       </router-link>
-      <router-link to="/servicios" class="btn btn-success btn-sm rounded-xl px-6">
+      <router-link to="/servicios" class="btn btn-success btn-sm rounded-xl px-6" active-class="btn-active">
         <strong>Mis Servicios</strong>
       </router-link>
     </div>
