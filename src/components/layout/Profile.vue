@@ -10,7 +10,7 @@
         >
           <img
             style="object-fit: cover; transform: scale(1.2)"
-            src="/src/assets/images/main/avatar.jpg"
+            src="/src/assets/images/mi_foto.png"
             alt="Profile"
           />
         </div>
